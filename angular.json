@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pixellated-artifacts"
+    }
+  },
+  "defaultProject": "pixellated-artifacts",
+  "cli": {
+    "analytics": false
+  }
 }
